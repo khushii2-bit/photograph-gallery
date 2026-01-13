@@ -24,14 +24,15 @@ P{
     font-style: italic;
     font-size:40px;
 }
-footer{ 
-    text-align :center;
+footer { 
+    text-align: center;
+    background-color: lightgrey;
     color: black;
-    color: lightgray;
 }
 
     
     
+
 
 
 
