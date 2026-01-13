@@ -18,5 +18,12 @@ P{
 .linkdln h1{
     text-align: center;
     color:aqua;
+} p a{
+    color:blue;
+    text-align:center;
+    font-style: italic;
+    font-size:40px;
 }
+
+
 
