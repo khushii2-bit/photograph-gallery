@@ -3,7 +3,7 @@ body{
     font-family: 'Times New Roman', Times, serif;
 }
 h1{
-    color:greenyellow;
+    color:green;
     text-align:center;
     font-style: italic;
     font-size: 50px
@@ -19,3 +19,4 @@ P{
     text-align: center;
     color:aqua;
 }
+
