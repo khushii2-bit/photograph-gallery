@@ -1,0 +1,21 @@
+body{
+    background-color:blanchedalmond;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    color:greenyellow;
+    text-align:center;
+    font-style: italic;
+    font-size: 50px
+}
+hr{
+    border: 2px solid black;
+}
+P{
+    font-size :20px;
+    color:green;
+}
+.linkdln h1{
+    text-align: center;
+    color:aqua;
+}
